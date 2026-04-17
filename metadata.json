@@ -1,0 +1,9 @@
+{
+  "name": "Relief Portal",
+  "description": "A comprehensive disaster relief resource management system featuring real-time alerts, AI-driven triage, and emergency SOS broadcasting.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
